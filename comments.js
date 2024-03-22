@@ -1,4 +1,4 @@
-// create web server
+// Create web server
 // create 2 routes
 // 1. /comments
 // 2. /comments/new
